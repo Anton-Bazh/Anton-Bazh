@@ -49,7 +49,7 @@ Diseño e implementación de un sistema de ventas web, adaptado a las necesidade
 
 ## 🌍 Redes Sociales
 
--[LinkedIn](https://www.linkedin.com/in/luisantonio)
+- [LinkedIn](https://www.linkedin.com/in/luis-antonio-baeza-turijan-2ab00b257/)
 - [Correo Electrónico](mailto:baezaantoniocontac@gmail.com)
 
 ## 💡 Mis intereses
