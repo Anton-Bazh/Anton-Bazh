@@ -35,17 +35,14 @@ Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir
 ### 🚀 **Aldeas Digitales (2024)**
 Digitalización de negocios locales para optimizar su presencia en línea y operaciones. Participé en la planificación y ejecución del proyecto.
 
-[Ver Proyecto en GitHub](#)
 
 ### 🌱 **Proyecto MICMO**
 Desarrollo de un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales.
 
-[Ver Proyecto en GitHub](#)
 
 ### 💼 **Sistema de Ventas Personalizado**
 Diseño e implementación de un sistema de ventas web, adaptado a las necesidades de un cliente, con enfoque en accesibilidad.
 
-[Ver Proyecto en GitHub](#)
 
 ## 🌍 Redes Sociales
 
