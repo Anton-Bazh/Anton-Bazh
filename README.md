@@ -49,8 +49,7 @@ Diseño e implementación de un sistema de ventas web, adaptado a las necesidade
 
 ## 🌍 Redes Sociales
 
-- [LinkedIn](https://www.linkedin.com/in/luisantonio)
-- [Twitter](https://twitter.com/luisantonio)
+-[LinkedIn](https://www.linkedin.com/in/luisantonio)
 - [Correo Electrónico](mailto:baezaantoniocontac@gmail.com)
 
 ## 💡 Mis intereses
