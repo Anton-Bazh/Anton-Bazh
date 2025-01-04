@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Antonio Baeza Turijan 👋
 
-![Banner de bienvenida](URL_del_banner)
+![Banner de bienvenida]([URL_del_banner](https://github.com/Anton-Bazh/Anton-Bazh/blob/a2a494ee4641e05c60f5c9612a3f554a8af5f285/banner.png))
 
 Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México. Tengo experiencia en desarrollo de software, mantenimiento de sistemas y administración de bases de datos. Mi pasión por la tecnología me lleva a aprender constantemente y aportar en proyectos que mejoren la vida de las personas mediante soluciones digitales.
 
