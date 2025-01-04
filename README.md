@@ -1,74 +1,66 @@
-# Luis Antonio Baeza Turijan
+# ¡Hola! Soy Luis Antonio Baeza Turijan 👋
 
-**Email:** baezaantoniocontac@gmail.com  
-**Teléfono:** 7351031090  
-**Ubicación:** Tlacotepec, Morelos, México
+[![Saludo GIF](URL_del_GIF_de_saludo)](URL_del_GIF_de_saludo)
 
-## Perfil Profesional
+Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México. Tengo experiencia en desarrollo de software, mantenimiento de sistemas y administración de bases de datos. Mi pasión por la tecnología me lleva a aprender constantemente y aportar en proyectos que mejoren la vida de las personas mediante soluciones digitales.
 
-Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México, con experiencia en desarrollo y mantenimiento de sistemas informáticos, administración de bases de datos y optimización de herramientas tecnológicas. Mi enfoque está en crear productos tecnológicos funcionales y atractivos, con un fuerte compromiso hacia la eficiencia y la entrega de resultados de alta calidad. Me motiva aprender y contribuir al éxito de proyectos tecnológicos.
+## 🧑‍💻 Acerca de mí
 
-## Educación
+Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir aprendiendo sobre lenguajes de programación como Python, Java y JavaScript. Mi objetivo es crear productos tecnológicos que sean funcionales, eficientes y accesibles.
 
-**Tecnológico Nacional de México**  
-*Ingeniería en Sistemas Computacionales*  
-Promedio: 86  
-Agosto 2022 - Julio 2026 (En curso)
+### 🔥 Lo que estoy aprendiendo
+- **Desarrollo Web** con **Laravel** y **PHP**
+- **Gestión de Bases de Datos** con **MySQL** y **SQL Server**
+- **Automatización y optimización de sistemas** utilizando **Python**
 
-## Experiencia y Proyectos Destacados
+### 🎯 ¿Buscas un desarrollador apasionado?
+¡Estoy disponible para colaborar en proyectos y trabajos freelance! No dudes en contactarme si tienes alguna oportunidad interesante. 
 
-### Hackatones y Proyectos Digitales
-Participación en hackatones y el proyecto **Aldeas Digitales (2024)**, contribuyendo a la digitalización de negocios locales para mejorar su presencia digital y optimizar sus operaciones.
+## 🚀 Tecnologías y Herramientas
 
-### Proyecto MICMO
-Desarrollo de un sistema aspersor de veneno antiinsectos adaptable a marcas comerciales, liderando el equipo de desarrollo.
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel Badge](https://img.shields.io/badge/-Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Sistema de Ventas Personalizado
-Diseño e implementación de un sistema de ventas web adaptado a las necesidades de un cliente, optimizando accesibilidad en múltiples dispositivos.
+## 📈 Estadísticas de GitHub
 
-### Negocio Personal
-Tres años de experiencia en soporte y mantenimiento de equipos de cómputo en la región oriente del estado de Morelos.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/tu_usuario)
 
-## Certificaciones y Cursos
+## 🛠️ Proyectos Destacados
 
-- Certificación **Alibaba Aldeas Digitales (2024)**
-- Certificación **Prepárate para el Empleo (Carlos Slim)** en soporte y mantenimiento de equipos de cómputo (2017)
+### 🚀 **Aldeas Digitales (2024)**
+Digitalización de negocios locales para optimizar su presencia en línea y operaciones. Participé en la planificación y ejecución del proyecto.
 
-## Habilidades Técnicas
+[Ver Proyecto en GitHub](#)
 
-- **Lenguajes de Programación:** Python, Java, JavaScript, HTML, CSS, SQL (Básico a intermedio)
-- **Desarrollo Web:** Laravel, PHP, MySQL, HTML, CSS, JavaScript
-- **Bases de Datos:** MySQL, SQL Server, SQLite
-- **Diseño Gráfico:** GIMP, Photopea (básico)
-- **Sistemas Operativos:** Windows (avanzado), Linux (básico)
-- **Herramientas de Organización:** Obsidian
+### 🌱 **Proyecto MICMO**
+Desarrollo de un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales.
 
-## Habilidades Personales
+[Ver Proyecto en GitHub](#)
 
-- Resolución de problemas y pensamiento crítico.
-- Comunicación efectiva y orientación al cliente.
-- Capacidad de aprendizaje rápido y adaptación a nuevos entornos.
-- Liderazgo y trabajo en equipo.
+### 💼 **Sistema de Ventas Personalizado**
+Diseño e implementación de un sistema de ventas web, adaptado a las necesidades de un cliente, con enfoque en accesibilidad.
 
-## Idiomas
+[Ver Proyecto en GitHub](#)
 
-- **Español:** Nativo
-- **Inglés:** Comprensión básica de textos técnicos
+## 🌍 Redes Sociales
 
-## Logros y Reconocimientos
+- [LinkedIn](https://www.linkedin.com/in/luisantonio)
+- [Twitter](https://twitter.com/luisantonio)
+- [Correo Electrónico](mailto:baezaantoniocontac@gmail.com)
 
-- **Reconocimiento de Alibaba Aldeas Digitales (2024)**
-- **Certificación Prepárate para el Empleo de Carlos Slim (2017)**
+## 💡 Mis intereses
 
-## Intereses y Motivaciones
-
-Apasionado por el soporte técnico, la gestión de bases de datos y redes. Me motiva trabajar en proyectos que impulsen mi aprendizaje y crecimiento profesional. Mi objetivo es dominar lenguajes de programación clave como SQL, Java o JavaScript para contribuir en proyectos de alto impacto.
+- Soporte técnico y administración de sistemas
+- Optimización de bases de datos
+- Proyectos de desarrollo web y automatización
 
 ---
 
-## Mis Proyectos
+### 🎉 ¡Gracias por visitar mi perfil!
 
-[Agregar enlace a tus proyectos o repositorios de GitHub aquí]
-
-![Imagen de tu proyecto](URL_de_imagen_del_proyecto)
-
+Si estás interesado en colaborar o necesitas ayuda en algún proyecto, no dudes en contactarme. ¡Siempre estoy listo para nuevos desafíos!
