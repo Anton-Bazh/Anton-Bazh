@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Antonio Baeza Turijan 👋
 
-[![Saludo GIF](URL_del_GIF_de_saludo)](URL_del_GIF_de_saludo)
+![Banner de bienvenida](URL_del_banner)
 
 Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México. Tengo experiencia en desarrollo de software, mantenimiento de sistemas y administración de bases de datos. Mi pasión por la tecnología me lleva a aprender constantemente y aportar en proyectos que mejoren la vida de las personas mediante soluciones digitales.
 
@@ -28,7 +28,7 @@ Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir
 
 ## 📈 Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/tu_usuario)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/Anton-Bazh)
 
 ## 🛠️ Proyectos Destacados
 
