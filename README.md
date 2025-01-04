@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luis Antonio Baeza Turijan 👋
+# ¡Hola! Soy Antonio Baeza 👋
 
 ![Banner](https://github.com/Anton-Bazh/Anton-Bazh/blob/a2a494ee4641e05c60f5c9612a3f554a8af5f285/banner.png?raw=true)
 
