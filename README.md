@@ -83,8 +83,9 @@ Creación de un sistema de ventas web adaptado a las necesidades específicas de
 
 ¿Tienes una idea, proyecto o desafío? ¡Hablemos! Estoy listo para colaborar en soluciones que dejen huella.  
 
-[![LinkedIn](https://img.shields.io/badge/-Antonio%20Baeza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/antoniobaezat?trk=profile-badge)  
-[![Gmail](https://img.shields.io/badge/-baezaantoniocontac%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezaantoniocontac@gmail.com)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/antoniobaezat) **Antonio Baeza**  
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/5/5f/Gmail_Logo_2020.png)](mailto:baezaantoniocontac@gmail.com) **baezaantoniocontac@gmail.com**
+ 
 
 
 ### 🎉 **Gracias por pasar por mi perfil**  
