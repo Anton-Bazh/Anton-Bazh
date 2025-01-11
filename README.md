@@ -74,7 +74,7 @@ Creación de un sistema de ventas web adaptado a las necesidades específicas de
 
 ## 📊 **Estadísticas y Actividad en GitHub**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=dracula&count_private=true)](https://github.com/Anton-Bazh)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=dracula&count_private=true)](https://github.com/Anton-Bazh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Bazh&layout=compact&theme=dracula)](https://github.com/Anton-Bazh)  
 
 ---
