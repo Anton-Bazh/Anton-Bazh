@@ -83,7 +83,7 @@ Creación de un sistema de ventas web adaptado a las necesidades específicas de
 
 ¿Tienes una idea, proyecto o desafío? ¡Hablemos! Estoy listo para colaborar en soluciones que dejen huella.  
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-baeza-turijan-2ab00b257/)  
+- [![LinkedIn](https://www.linkedin.com/in/antonio-baeza-2ab00b257)  
 - [![Correo](https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezaantoniocontac@gmail.com)  
 
 ---
