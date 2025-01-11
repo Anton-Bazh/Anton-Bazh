@@ -1,62 +1,67 @@
-# ¡Hola! Soy Antonio Baeza 👋  
+# 🚀 ¡Hola! Soy Antonio Baeza  
 
 ![Banner](https://github.com/Anton-Bazh/Anton-Bazh/blob/a2a494ee4641e05c60f5c9612a3f554a8af5f285/banner.png?raw=true)  
 
-### 🌟 Apasionado por la tecnología y la innovación digital  
+### 🌟 Innovador en tecnología, solucionador de problemas y amante del aprendizaje constante  
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México**, con experiencia en desarrollo de software, soporte técnico y administración de bases de datos. Mi pasión por la tecnología me impulsa a crear soluciones digitales que realmente marquen la diferencia.  
-
----
-
-## 🧑‍💻 **Acerca de mí**  
-
-- 💡 **Apasionado por aprender**: Me encanta descubrir nuevas herramientas y tecnologías que me permitan mejorar constantemente.  
-- 💻 **Resolviendo problemas reales**: Desde el soporte técnico hasta la optimización de sistemas, mi enfoque está en crear soluciones prácticas y eficientes.  
-- 🎯 **En busca de impacto**: Mi meta es diseñar proyectos que combinen funcionalidad, eficiencia y accesibilidad.  
+Soy estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México**, con experiencia en desarrollo de software, soporte técnico y administración de sistemas. Mi misión es combinar creatividad y tecnología para crear soluciones digitales que impacten positivamente la vida de las personas.  
 
 ---
 
-## 🛠️ **Habilidades Técnicas**  
+## 🧩 **Quién soy**  
 
-- **Soporte Técnico**:  
-  - Mantenimiento preventivo y correctivo de hardware y software.  
-  - Diagnóstico y solución de problemas técnicos en equipos de escritorio y portátiles.  
-  - Instalación, configuración y optimización de sistemas operativos y aplicaciones.  
-  - Atención personalizada para garantizar soluciones rápidas y efectivas.  
+- 🌱 **Eterno aprendiz**: Cada día es una oportunidad para aprender algo nuevo y emocionante en el mundo tecnológico.  
+- 🛠️ **Resolutivo**: Me encanta enfrentar desafíos técnicos y transformarlos en soluciones prácticas.  
+- 🌐 **Impacto global**: Mi objetivo es desarrollar proyectos que no solo sean funcionales, sino que también sean accesibles para todos.  
 
-- **Desarrollo de Software**:  
-  - Programación en **Python**, **Java**, y **JavaScript**.  
-  - Desarrollo web con **Laravel** y **PHP**.  
-  - Automatización de tareas y optimización de procesos.  
-
-- **Gestión de Bases de Datos**:  
-  - Administración y diseño de bases de datos en **MySQL** y **SQL Server**.  
-  - Optimización de consultas y modelado de datos.  
+> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*  
 
 ---
 
-## 🚀 **Lo que estoy aprendiendo**  
+## 🛠️ **Habilidades Técnicas que me definen**  
 
-- 🔧 **Frameworks modernos**: Dominando **Laravel** y explorando mejores prácticas en **PHP**.  
-- 📊 **Bases de Datos Avanzadas**: Mejorando mis habilidades en diseño y optimización.  
-- 🤖 **Automatización con Python**: Creando scripts para tareas repetitivas y eficiencias operativas.  
+### **Soporte Técnico**  
+- 🔧 Experto en mantenimiento preventivo y correctivo de hardware y software.  
+- ⚙️ Diagnóstico avanzado y resolución de problemas técnicos.  
+- 💾 Instalación y configuración de sistemas operativos, drivers y aplicaciones.  
+- 🌟 Atención al cliente personalizada, asegurando soluciones rápidas y efectivas.  
+
+### **Desarrollo de Software**  
+- 💻 Programación en **Python**, **Java**, y **JavaScript**.  
+- 🌐 Desarrollo web moderno con **Laravel** y **PHP**.  
+- 🤖 Automatización de procesos utilizando **Python**.  
+
+### **Gestión de Bases de Datos**  
+- 📊 Diseño, administración y optimización de bases de datos en **MySQL** y **SQL Server**.  
+- ⚡ Mejora de consultas y modelado de datos para un rendimiento superior.  
 
 ---
 
-## 💼 **Proyectos Destacados**  
+## 🚀 **Lo que estoy aprendiendo ahora**  
+
+- **Frameworks Avanzados**: Ampliando mi conocimiento en **Laravel** y optimizando mi uso de **PHP**.  
+- **Optimización de Bases de Datos**: Profundizando en modelado y rendimiento.  
+- **Automatización**: Explorando nuevas formas de simplificar tareas repetitivas con **Python**.  
+
+---
+
+## 🌟 **Proyectos que marcan la diferencia**  
 
 ### 🚀 **Aldeas Digitales (2024)**  
-Un proyecto enfocado en la digitalización de negocios locales, mejorando su presencia en línea y optimizando sus operaciones internas.  
+**Digitalización de negocios locales** para optimizar su presencia en línea y mejorar sus operaciones internas.  
+📌 *Mi rol*: Lideré la planificación y ejecución técnica del proyecto.  
 
 ### 🌱 **Proyecto MICMO**  
-Desarrollo de un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales, integrando tecnología accesible y eficiente.  
+Un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales.  
+📌 *Mi rol*: Diseñé la solución tecnológica para garantizar eficiencia y escalabilidad.  
 
 ### 💼 **Sistema de Ventas Personalizado**  
-Diseño e implementación de un sistema de ventas web, adaptado a las necesidades específicas de un cliente con un enfoque en accesibilidad y facilidad de uso.  
+Creación de un sistema de ventas web adaptado a las necesidades específicas del cliente.  
+📌 *Mi rol*: Desarrollo completo, priorizando accesibilidad y usabilidad.  
 
 ---
 
-## ⚙️ **Tecnologías y Herramientas**  
+## 🎨 **Tecnologías y Herramientas**  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -67,20 +72,22 @@ Diseño e implementación de un sistema de ventas web, adaptado a las necesidade
 
 ---
 
-## 📈 **Estadísticas de GitHub**  
+## 📊 **Estadísticas y Actividad en GitHub**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=radical&count_private=true)](https://github.com/Anton-Bazh)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Bazh&layout=compact&theme=radical)](https://github.com/Anton-Bazh)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=dracula&count_private=true)](https://github.com/Anton-Bazh)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Bazh&layout=compact&theme=dracula)](https://github.com/Anton-Bazh)  
 
 ---
 
 ## 🌍 **Conecta conmigo**  
+
+¿Tienes una idea, proyecto o desafío? ¡Hablemos! Estoy listo para colaborar en soluciones que dejen huella.  
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-antonio-baeza-turijan-2ab00b257/)  
 - [![Correo](https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezaantoniocontac@gmail.com)  
 
 ---
 
-### 🎉 **Gracias por visitar mi perfil**  
+### 🎉 **Gracias por pasar por mi perfil**  
 
-Estoy siempre en búsqueda de nuevos desafíos y oportunidades para colaborar. Si tienes un proyecto o idea interesante, ¡hablemos! 🚀
+Siempre estoy buscando nuevos desafíos que me reten y me permitan crecer. ¡Hablemos y hagamos algo increíble juntos! 🚀  
