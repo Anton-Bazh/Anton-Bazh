@@ -16,6 +16,14 @@ Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir
 ### 🎯 ¿Buscas un desarrollador apasionado?
 ¡Estoy disponible para colaborar en proyectos y trabajos freelance! No dudes en contactarme si tienes alguna oportunidad interesante. 
 
+## 🚀 Habilidades Técnicas
+
+- **Soporte Técnico para Computadoras**: Especializado en mantenimiento preventivo y correctivo, tanto en hardware como en software. Mi experiencia en esta área incluye la resolución de problemas técnicos complejos y la optimización de equipos para un rendimiento óptimo.
+- **Diagnóstico y Reparación**: Capacidad para identificar y solucionar fallas técnicas, actualizaciones de sistemas y configuración de hardware/software.
+- **Automatización de Procesos**: Implementación de soluciones técnicas para simplificar tareas repetitivas y mejorar la eficiencia operativa.
+
+**💡 Nota:** ¡El soporte técnico es una de mis especialidades! Es lo que mejor sé hacer y disfruto aportar soluciones efectivas.
+
 ## 🚀 Tecnologías y Herramientas
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -35,14 +43,11 @@ Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir
 ### 🚀 **Aldeas Digitales (2024)**
 Digitalización de negocios locales para optimizar su presencia en línea y operaciones. Participé en la planificación y ejecución del proyecto.
 
-
 ### 🌱 **Proyecto MICMO**
 Desarrollo de un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales.
 
-
 ### 💼 **Sistema de Ventas Personalizado**
 Diseño e implementación de un sistema de ventas web, adaptado a las necesidades de un cliente, con enfoque en accesibilidad.
-
 
 ## 🌍 Redes Sociales
 
