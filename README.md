@@ -8,21 +8,21 @@ Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nac
 
 Actualmente estoy trabajando en diversos proyectos digitales, y me motiva seguir aprendiendo sobre lenguajes de programación como Python, Java y JavaScript. Mi objetivo es crear productos tecnológicos que sean funcionales, eficientes y accesibles.
 
+## 🛠️ Habilidades Técnicas
+
+- **Soporte técnico para computadoras**: Especializado en mantenimiento preventivo y correctivo, tanto de hardware como de software. 
+- Diagnóstico y resolución de problemas técnicos en equipos de escritorio y portátiles.
+- Instalación y configuración de sistemas operativos, controladores y aplicaciones.
+- Optimización de sistemas para mejorar el rendimiento.
+- Atención personalizada a usuarios para garantizar la resolución efectiva de sus problemas técnicos.
+
 ### 🔥 Lo que estoy aprendiendo
 - **Desarrollo Web** con **Laravel** y **PHP**
 - **Gestión de Bases de Datos** con **MySQL** y **SQL Server**
 - **Automatización y optimización de sistemas** utilizando **Python**
 
 ### 🎯 ¿Buscas un desarrollador apasionado?
-¡Estoy disponible para colaborar en proyectos y trabajos freelance! No dudes en contactarme si tienes alguna oportunidad interesante. 
-
-## 🚀 Habilidades Técnicas
-
-- **Soporte Técnico para Computadoras**: Especializado en mantenimiento preventivo y correctivo, tanto en hardware como en software. Mi experiencia en esta área incluye la resolución de problemas técnicos complejos y la optimización de equipos para un rendimiento óptimo.
-- **Diagnóstico y Reparación**: Capacidad para identificar y solucionar fallas técnicas, actualizaciones de sistemas y configuración de hardware/software.
-- **Automatización de Procesos**: Implementación de soluciones técnicas para simplificar tareas repetitivas y mejorar la eficiencia operativa.
-
-**💡 Nota:** ¡El soporte técnico es una de mis especialidades! Es lo que mejor sé hacer y disfruto aportar soluciones efectivas.
+¡Estoy disponible para colaborar en proyectos y trabajos freelance! No dudes en contactarme si tienes alguna oportunidad interesante.
 
 ## 🚀 Tecnologías y Herramientas
 
