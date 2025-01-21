@@ -89,7 +89,3 @@ Creación de un sistema de ventas web adaptado a las necesidades específicas de
 ### 🎉 **Gracias por pasar por mi perfil** 
 
 
-
-<div style="height: 200px;"></div>
-
-
