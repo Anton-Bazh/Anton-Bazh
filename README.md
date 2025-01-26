@@ -12,7 +12,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológi
 
 - 🌱 **Eterno aprendiz**: Cada día es una oportunidad para aprender algo nuevo y emocionante en el mundo tecnológico.  
 - 🛠️ **Resolutivo**: Me encanta enfrentar desafíos técnicos y transformarlos en soluciones prácticas.  
-- 🌐 **Impacto global**: Mi objetivo es desarrollar proyectos que no solo sean funcionales, sino que también sean accesibles para todos.  
+- 🌐 **Impacto general**: Mi objetivo es desarrollar proyectos que no solo sean funcionales, sino que también sean accesibles.  
 
 > *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*  
 
