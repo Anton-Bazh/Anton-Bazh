@@ -63,46 +63,29 @@ Creación de un sistema de ventas web adaptado a las necesidades específicas de
 
 ## 🎨 **Tecnologías y Herramientas**  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
 ## 📊 **Estadísticas y Actividad en GitHub**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anton-Bazh&theme=radical" alt="Racha de GitHub">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Bazh&layout=compact&theme=dracula)](https://github.com/Anton-Bazh)  
 
 ---
 
-## 📫 **¡Conéctate conmigo!**  
+## 🌍 **Conecta conmigo**  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:tu-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
+¿Tienes una idea, proyecto o desafío? ¡Hablemos! Estoy listo para colaborar en soluciones que dejen huella.  
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniobaezat/)
+[![Gmail](https://img.shields.io/badge/-baezaantoniocontac%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezaantoniocontac@gmail.com)
 
-## 🌟 **¡Vamos a crear algo increíble juntos!**  
+[![Buy Me A Coffee](https://img.shields.io/badge/Inv%C3%ADtame%20un%20cafe-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.com/paypalme/AntonioBaeza0)
 
-Si estás interesado en colaborar en proyectos innovadores o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="300">
-</div>
+### 🎉 **Gracias por pasar por mi perfil** 
