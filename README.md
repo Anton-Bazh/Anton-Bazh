@@ -1,91 +1,159 @@
-# 🚀 ¡Hola! Soy Antonio Baeza  
+# 🚀 Hola, soy Antonio Baeza
 
-![Banner](https://github.com/Anton-Bazh/Anton-Bazh/blob/a2a494ee4641e05c60f5c9612a3f554a8af5f285/banner.png?raw=true)  
+![Banner](https://github.com/Anton-Bazh/Anton-Bazh/blob/a2a494ee4641e05c60f5c9612a3f554a8af5f285/banner.png?raw=true)
 
-### 🌟 Innovador en tecnología, solucionador de problemas y amante del aprendizaje constante  
+## Desarrollador independiente | Ingeniería en Sistemas Computacionales | Creación de software útil y confiable
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México**, con experiencia en desarrollo de software, soporte técnico y administración de sistemas. Mi misión es combinar creatividad y tecnología para crear soluciones digitales que impacten positivamente la vida de las personas.  
+Soy **Antonio Baeza**, desarrollador independiente y estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México**.  
+Me enfoco en crear soluciones de software prácticas, estables y orientadas a resolver problemas reales.
 
----
-
-## 🧩 **Quién soy**  
-
-- 🌱 **Eterno aprendiz**: Cada día es una oportunidad para aprender algo nuevo y emocionante en el mundo tecnológico.  
-- 🛠️ **Resolutivo**: Me encanta enfrentar desafíos técnicos y transformarlos en soluciones prácticas.  
-- 🌐 **Impacto general**: Mi objetivo es desarrollar proyectos que no solo sean funcionales, sino que también sean accesibles.  
-
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*  
+Trabajo con la idea de que la tecnología debe ser clara, funcional y útil desde el primer día.  
+Me interesan los proyectos que exigen lógica, estructura, orden y atención al detalle, especialmente cuando impactan procesos reales de negocio.
 
 ---
 
-## 🛠️ **Habilidades Técnicas que me definen**  
+## 🧠 Sobre mí
 
-### **Soporte Técnico**  
-- 🔧 Experto en mantenimiento preventivo y correctivo de hardware y software.  
-- ⚙️ Diagnóstico avanzado y resolución de problemas técnicos.  
-- 💾 Instalación y configuración de sistemas operativos, drivers y aplicaciones.  
-- 🌟 Atención al cliente personalizada, asegurando soluciones rápidas y efectivas.  
+Soy una persona que combina aprendizaje constante, pensamiento técnico y orientación a resultados.  
+Me gusta construir cosas que funcionen bien, que sean fáciles de mantener y que aporten valor real.
 
-### **Desarrollo de Software**  
-- 💻 Programación en **Python**, **Java**, y **JavaScript**.  
-- 🌐 Desarrollo web moderno con **Laravel** y **PHP**.  
-- 🤖 Automatización de procesos utilizando **Python**.  
-
-### **Gestión de Bases de Datos**  
-- 📊 Diseño, administración y optimización de bases de datos en **MySQL** y **SQL Server**.  
-- ⚡ Mejora de consultas y modelado de datos para un rendimiento superior.  
+### Lo que me define:
+- **Aprendiz constante**: siempre busco mejorar mis habilidades y aprender nuevas herramientas.
+- **Resolutivo**: disfruto enfrentar problemas técnicos y convertirlos en soluciones concretas.
+- **Enfocado en calidad**: me importa que el software no solo funcione, sino que funcione bien.
+- **Orientado al usuario**: desarrollo pensando en experiencias simples, claras y prácticas.
 
 ---
 
-## 🚀 **Lo que estoy aprendiendo ahora**  
+## 🛠️ Lo que hago
 
-- **Frameworks Avanzados**: Ampliando mi conocimiento en **Laravel** y optimizando mi uso de **PHP**.  
-- **Optimización de Bases de Datos**: Profundizando en modelado y rendimiento.  
-- **Automatización**: Explorando nuevas formas de simplificar tareas repetitivas con **Python**.  
+Tengo experiencia y participación en distintas áreas del desarrollo y soporte tecnológico:
 
----
-
-## 🌟 **Proyectos que marcan la diferencia**  
-
-### 🚀 **Aldeas Digitales (2024)**  
-**Digitalización de negocios locales** para optimizar su presencia en línea y mejorar sus operaciones internas.  
-📌 *Mi rol*: Lideré la planificación y ejecución técnica del proyecto.  
-
-### 🌱 **Proyecto MICMO**  
-Un sistema aspersor de veneno antiinsectos adaptable a diversas marcas comerciales.  
-📌 *Mi rol*: Diseñé la solución tecnológica para garantizar eficiencia y escalabilidad.  
-
-### 💼 **Sistema de Ventas Personalizado**  
-Creación de un sistema de ventas web adaptado a las necesidades específicas del cliente.  
-📌 *Mi rol*: Desarrollo completo, priorizando accesibilidad y usabilidad.  
+- Desarrollo de software
+- Soporte técnico
+- Administración de sistemas
+- Automatización de procesos
+- Diseño de herramientas para negocio
+- Integración de flujos operativos y funcionales
+- Soluciones locales para punto de venta
 
 ---
 
-## 🎨 **Tecnologías y Herramientas**  
+## 📌 Proyecto principal
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### **ProjectDelta / Delta POS**
+Estoy desarrollando **ProjectDelta**, una línea de productos enfocada en negocios reales que necesitan herramientas confiables, simples y funcionales.
+
+**Delta POS** es uno de esos productos: un sistema de punto de venta diseñado para operar con estabilidad, rapidez y enfoque práctico, especialmente para entornos donde la continuidad de operación importa.
+
+### Enfoque del proyecto:
+- Operación sencilla
+- Flujo rápido de cobro
+- Control de inventario
+- Registro ordenado de ventas
+- Experiencia pensada para uso cotidiano en negocio
+- Diseño orientado a resolver necesidades reales
 
 ---
 
-## 📊 **Estadísticas y Actividad en GitHub**  
+## 💼 Experiencia e interés profesional
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anton-Bazh&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Bazh&layout=compact&theme=dracula)](https://github.com/Anton-Bazh)  
+Me interesa todo lo relacionado con:
+
+- Desarrollo de aplicaciones
+- Sistemas de control y administración
+- Software de escritorio
+- Bases de datos
+- Automatización de tareas
+- Herramientas para negocios
+- Soporte e implementación técnica
+
+No busco solo escribir código; busco construir soluciones que puedan sostenerse en el tiempo y realmente servir.
 
 ---
 
-## 🌍 **Conecta conmigo**  
+## 🧰 Habilidades técnicas
 
-¿Tienes una idea, proyecto o desafío? ¡Hablemos! Estoy listo para colaborar en soluciones que dejen huella.  
+### Desarrollo
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+- SQL
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniobaezat/)
-[![Gmail](https://img.shields.io/badge/-baezaantoniocontac%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baezaantoniocontac@gmail.com)
+### Entornos y herramientas
+- Git
+- GitHub
+- Windows
+- Administración básica de sistemas
+- Bases de datos relacionales
+- Instalación y soporte de software
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Inv%C3%ADtame%20un%20cafe-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.com/paypalme/AntonioBaeza0)
+### Áreas de trabajo
+- Frontend
+- Backend
+- Software de escritorio
+- Automatización
+- Sistemas administrativos
+- Punto de venta
 
-### 🎉 **Gracias por pasar por mi perfil** 
+---
+
+## 🎯 Forma de trabajar
+
+Me gusta trabajar con una lógica sencilla:
+
+- Entender bien el problema
+- Diseñar una solución clara
+- Construir algo estable
+- Probarlo con criterio
+- Mejorarlo con base en uso real
+
+Prefiero la funcionalidad bien hecha antes que la complejidad innecesaria.
+
+---
+
+## 📚 Formación
+
+Actualmente soy estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México**.  
+Mi formación académica complementa mi trabajo práctico con base técnica, pensamiento lógico y enfoque en resolución de problemas.
+
+---
+
+## 🔎 Qué puedes encontrar en mi perfil
+
+En mi GitHub suelo compartir o desarrollar proyectos relacionados con:
+
+- Automatización
+- Software para negocio
+- Aplicaciones funcionales
+- Herramientas de apoyo técnico
+- Ideas en construcción
+- Proyectos personales y experimentales
+
+---
+
+## 🌐 Sitio del proyecto
+
+**ProjectDelta**  
+Sitio oficial: [https://devlta.com](https://devlta.com)
+
+---
+
+## 📫 Contacto
+
+- GitHub: [Anton-Bazh](https://github.com/Anton-Bazh)
+- Sitio web: [devlta.com](https://devlta.com)
+
+---
+
+## ✨ Filosofía
+
+> “Construir bien no es hacer más cosas; es hacer que las cosas sí funcionen.”
+
+---
+
+## 📈 Objetivo
+
+Seguir creciendo como desarrollador independiente, fortalecer mis proyectos y construir software útil para personas y negocios reales.
