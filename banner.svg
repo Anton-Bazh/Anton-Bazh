@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Antonio Baeza — Ingeniero en Sistemas Computacionales · Fundador de Delta Labs">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14161c"/>
+      <stop offset="1" stop-color="#1e2129"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".04"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="300" fill="#5b56f0" clip-path="url(#card)"/>
+
+  <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <text x="64" y="104" fill="#f2f3f5" font-size="58" font-weight="700">Antonio Baeza</text>
+    <text x="66" y="146" fill="#a9adb8" font-size="22">Ingeniero en Sistemas Computacionales  ·  Fundador de Delta Labs</text>
+    <text x="66" y="176" fill="#6f7482" font-size="18">Software engineer  ·  Founder of Delta Labs</text>
+
+    <g font-size="15" font-weight="600" font-family="'JetBrains Mono', Consolas, monospace">
+      <rect x="64" y="216" width="104" height="36" rx="8" fill="#5b56f0" fill-opacity=".18" stroke="#5b56f0"/>
+      <text x="116" y="239" fill="#b9b6ff" text-anchor="middle">MARC</text>
+      <rect x="182" y="216" width="114" height="36" rx="8" fill="#22c55e" fill-opacity=".14" stroke="#22c55e"/>
+      <text x="239" y="239" fill="#86efac" text-anchor="middle">Ocelot</text>
+      <rect x="310" y="216" width="94" height="36" rx="8" fill="#f59e0b" fill-opacity=".14" stroke="#f59e0b"/>
+      <text x="357" y="239" fill="#fcd34d" text-anchor="middle">Xolo</text>
+      <rect x="418" y="216" width="104" height="36" rx="8" fill="#ec4899" fill-opacity=".14" stroke="#ec4899"/>
+      <text x="470" y="239" fill="#f9a8d4" text-anchor="middle">LASID</text>
+    </g>
+  </g>
+
+  <!-- Emblema: núcleo y ediciones -->
+  <g transform="translate(960 150)" fill="none" stroke-width="2">
+    <circle r="112" stroke="#ffffff" stroke-opacity=".06"/>
+    <circle r="76" stroke="#ffffff" stroke-opacity=".08"/>
+    <path d="M0 0L-70 -62M0 0L72 -48M0 0L-60 70M0 0L78 54" stroke="#3a3f4c"/>
+    <circle cx="-70" cy="-62" r="14" fill="#5b56f0" stroke="#14161c"/>
+    <circle cx="72" cy="-48" r="12" fill="#22c55e" stroke="#14161c"/>
+    <circle cx="-60" cy="70" r="11" fill="#f59e0b" stroke="#14161c"/>
+    <circle cx="78" cy="54" r="10" fill="#ec4899" stroke="#14161c"/>
+    <rect x="-30" y="-30" width="60" height="60" rx="14" fill="#1e2129" stroke="#f2f3f5" stroke-opacity=".7"/>
+    <text x="0" y="8" fill="#f2f3f5" stroke="none" font-size="22" font-weight="700" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace">Δ</text>
+  </g>
+</svg>
